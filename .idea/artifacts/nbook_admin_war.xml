@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="nbook-admin:war">
+    <output-path>$PROJECT_DIR$/../nbook-admin/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>nbook-admin</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="nbook-admin.war">
+      <element id="artifact" artifact-name="nbook-admin:war exploded" />
+    </root>
+  </artifact>
+</component>

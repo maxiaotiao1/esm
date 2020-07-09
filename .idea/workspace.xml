@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4599241c-2070-4a88-b219-16f2ade27673" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../springboot_test/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/SpringbootTestApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/SpringbootTestApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/controller/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/controller/AdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/controller/AnswerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/controller/AnswerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/controller/CoinsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/controller/CoinsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/controller/CommunityController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/controller/CommunityController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/controller/LabelController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/controller/LabelController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/controller/MessageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/controller/MessageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/controller/NoteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/controller/NoteController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/controller/PrivilegeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/controller/PrivilegeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/controller/QuestionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/controller/QuestionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/controller/ReportController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/controller/ReportController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/controller/TaskController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/controller/TaskController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/controller/VoteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/controller/VoteController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/entity/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/entity/Admin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/entity/AdminMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/entity/AdminMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/entity/Answer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/entity/Answer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/entity/Coins.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/entity/Coins.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/entity/Community.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/entity/Community.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/entity/Community_plate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/entity/Community_plate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/entity/Label_class.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/entity/Label_class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/entity/Label_option.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/entity/Label_option.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/entity/Note.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/entity/Note.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/entity/Privilege.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/entity/Privilege.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/entity/Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/entity/Question.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/entity/Report.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/entity/Report.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/entity/ReportClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/entity/ReportClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/entity/ReportOption.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/entity/ReportOption.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/entity/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/entity/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/entity/UserMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/entity/UserMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/entity/Vote.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/entity/Vote.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/mapper/admin/AdminMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/mapper/AdminMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/mapper/admin/AdminMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/resources/mapper/AdminMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/mapper/answer/AnswerMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/mapper/AnswerMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/mapper/answer/AnswerMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/resources/mapper/AnswerMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/mapper/coins/CoinsMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/mapper/CoinsMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/mapper/coins/CoinsMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/resources/mapper/CoinsMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/mapper/community/CommunityMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/mapper/CommunityMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/mapper/community/CommunityMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/resources/mapper/CommunityMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/mapper/label/LabelMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/mapper/LabelMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/mapper/label/LabelMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/resources/mapper/LabelMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/mapper/message/MessageMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/mapper/MessageMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/mapper/message/MessageMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/resources/mapper/MessageMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/mapper/note/NoteMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/mapper/NoteMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/mapper/note/NoteMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/resources/mapper/NoteMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/mapper/privilege/PrivilegeMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/mapper/PrivilegeMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/mapper/privilege/PrivilegeMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/resources/mapper/PrivilegeMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/mapper/question/QuestionMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/mapper/QuestionMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/mapper/question/QuestionMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/resources/mapper/QuestionMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/mapper/report/ReportMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/mapper/ReportMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/mapper/report/ReportMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/resources/mapper/ReportMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/mapper/task/TaskMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/mapper/TaskMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/mapper/task/TaskMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/resources/mapper/TaskMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/mapper/user/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/mapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/mapper/user/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/mapper/vote/VoteMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/mapper/VoteMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/mapper/vote/VoteMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/resources/mapper/VoteMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/service/admin/AdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/service/admin/AdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/service/admin/IAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/service/admin/IAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/service/answer/AnswerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/service/answer/AnswerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/service/coins/CoinsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/service/coins/CoinsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/service/community/CommunityService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/service/community/CommunityService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/service/label/ILabelService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/service/label/ILabelService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/service/label/LabelService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/service/label/LabelService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/service/message/IMessageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/service/message/IMessageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/service/message/MessageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/service/message/MessageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/service/note/INoteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/service/note/INoteService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/service/note/NoteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/service/note/NoteService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/service/privilege/IPrivilegeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/service/privilege/IPrivilegeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/service/privilege/PrivilegeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/service/privilege/PrivilegeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/service/question/QuestionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/service/question/QuestionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/service/report/IReportService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/service/report/IReportService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/service/report/ReportService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/service/report/ReportService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/service/task/TaskService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/service/task/TaskService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/service/user/IUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/service/user/IUserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/service/user/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/service/user/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/service/vote/VoteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/java/com/mx/springboot_test/service/vote/VoteService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot_test/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot_test/src/main/resources/templates/login.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="jdbc:mysql://localhost:3306/kongben?serverTimezone=GMT%2B8" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="jdbc:mysql://localhost:3306/kongben?serverTimezone=GMT%2B8" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="jdbc:mysql://localhost:3306/kongben?serverTimezone=GMT%2B8" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="kongben: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="machine" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="AnnotationType" />
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../springboot_test" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="G:\MavenRepository" />
+        <option name="mavenHome" value="F:/a_devtools/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="F:\a_devtools\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1anG0NxDcAwCIDCAjo0l5eg1AQx" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="redshift&#10;mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/../nbook-admin/src/main/java/com/analysis/common" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.72068965" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="DestinationChooserDialog.Package.RECENTS_KEY">
+      <recent name="com.kongben.machine.entity" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\projectAll\machine\target\classes" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.kongbenfitness.machine.service" />
+      <recent name="com.kongbenfitness.machine" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\projectAll\machine\src\main\java\com\kongben\machine\common\redis" />
+      <recent name="G:\projectAll\machine\src\main\java\com\kongben\machine\modules" />
+      <recent name="G:\projectAll\machine\src\main\java\com\kongben\machine\modules\mng" />
+      <recent name="G:\projectAll\machine\src\main\java\com\kongben\machine\modules\sng" />
+      <recent name="G:\projectAll\nbook-admin\src\main\java\com\analysis\common\utils" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.analysis.modules.sys.vo" />
+      <recent name="com.analysis.modules.aspect" />
+      <recent name="com.analysis.common.sms" />
+      <recent name="com.analysis.common.utils" />
+      <recent name="com.analysis.modules.sys.client" />
+    </key>
+    <key name="OPEN_URL_DIALOG">
+      <recent name="http://git@github.com:wuyouzhuguli/SpringAll.git" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MachineApplication">
+    <configuration name="DownloadPicFromURLUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kongben.machine.modules.oss.utils.DownloadPicFromURLUtils" />
+      <module name="machine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kongben.machine.modules.oss.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AreaServiceTest.fun2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="machine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kongben.machine.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kongben.machine.service" />
+      <option name="MAIN_CLASS_NAME" value="com.kongben.machine.service.AreaServiceTest" />
+      <option name="METHOD_NAME" value="fun2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AreaServiceTest.fun3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="machine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kongben.machine.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kongben.machine.service" />
+      <option name="MAIN_CLASS_NAME" value="com.kongben.machine.service.AreaServiceTest" />
+      <option name="METHOD_NAME" value="fun3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisTest.fun1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="nbook-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.analysis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.analysis" />
+      <option name="MAIN_CLASS_NAME" value="com.analysis.RedisTest" />
+      <option name="METHOD_NAME" value="fun1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnalysisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="nbook-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.analysis.AnalysisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="app-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kongben.appapi.AppApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MachineApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="machine" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kongben.machine.MachineApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OssApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_oss" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kongben.oss.OssApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mx.springboot_test.SpringbootTestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomUtil.fun1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="machine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kongben.machine.modules.sms.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kongben.machine.modules.sms.utils" />
+      <option name="MAIN_CLASS_NAME" value="com.kongben.machine.modules.sms.utils.RandomUtil" />
+      <option name="METHOD_NAME" value="fun1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DownloadPicFromURLUtils" />
+      <item itemvalue="JUnit.AreaServiceTest.fun3" />
+      <item itemvalue="JUnit.RedisTest.fun1" />
+      <item itemvalue="JUnit.AreaServiceTest.fun2" />
+      <item itemvalue="Spring Boot.MachineApplication" />
+      <item itemvalue="Spring Boot.OssApplication" />
+      <item itemvalue="Spring Boot.AnalysisApplication" />
+      <item itemvalue="Spring Boot.SpringbootTestApplication" />
+      <item itemvalue="Spring Boot.AppApiApplication" />
+      <item itemvalue="TestNG.RandomUtil.fun1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AreaServiceTest.fun2" />
+        <item itemvalue="TestNG.RandomUtil.fun1" />
+        <item itemvalue="JUnit.AreaServiceTest.fun3" />
+        <item itemvalue="JUnit.RedisTest.fun1" />
+        <item itemvalue="Application.DownloadPicFromURLUtils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4599241c-2070-4a88-b219-16f2ade27673" name="Default Changelist" comment="" />
+      <created>1587363720412</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587363720412</updated>
+      <workItem from="1587363726286" duration="173000" />
+      <workItem from="1587363921632" duration="9336000" />
+      <workItem from="1587379479233" duration="735000" />
+      <workItem from="1587428619231" duration="5465000" />
+      <workItem from="1587461111539" duration="134000" />
+      <workItem from="1587520752967" duration="14827000" />
+      <workItem from="1587608770716" duration="6165000" />
+      <workItem from="1587632170766" duration="32249000" />
+      <workItem from="1587778707835" duration="854000" />
+      <workItem from="1587779580573" duration="2820000" />
+      <workItem from="1587783534524" duration="18470000" />
+      <workItem from="1587819765779" duration="255000" />
+      <workItem from="1587820048097" duration="2616000" />
+      <workItem from="1587949054533" duration="27964000" />
+      <workItem from="1588033374148" duration="5937000" />
+      <workItem from="1588039465109" duration="73698000" />
+      <workItem from="1588229459132" duration="9059000" />
+      <workItem from="1588604484721" duration="1157000" />
+      <workItem from="1588639037035" duration="16832000" />
+      <workItem from="1588725386996" duration="57977000" />
+      <workItem from="1589160089015" duration="34886000" />
+      <workItem from="1589331625501" duration="18887000" />
+      <workItem from="1589419998394" duration="34421000" />
+      <workItem from="1589762184332" duration="158470000" />
+      <workItem from="1590453939564" duration="22340000" />
+      <workItem from="1590538972971" duration="24160000" />
+      <workItem from="1590568197403" duration="33412000" />
+      <workItem from="1590742010718" duration="1862000" />
+      <workItem from="1590743893347" duration="1640000" />
+      <workItem from="1590972771716" duration="22870000" />
+      <workItem from="1591333830194" duration="2829000" />
+      <workItem from="1591444435924" duration="4908000" />
+      <workItem from="1592316768550" duration="5340000" />
+      <workItem from="1593104221242" duration="66000" />
+      <workItem from="1593104295903" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="data" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

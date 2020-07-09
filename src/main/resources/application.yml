@@ -1,0 +1,39 @@
+spring:
+  profiles:
+    active: prod
+  datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    type: com.alibaba.druid.pool.DruidDataSource
+    druid:
+      url: jdbc:mysql://localhost:3306/esmmsdb?serverTimezone=GMT%2B8
+      username: root
+      password: 666666
+    #返回json的全局时间格式
+    jacson:
+      date-format: yyyy-MM-dd HH:mm:ss
+      time-zone: GMT+8
+
+
+#mybatis日志
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+    map-underscore-to-camel-case: true
+
+logging:
+  level:
+    root: INFO
+  config:
+    classpath: logback-spring.xml
+
+#阿里云 OSS
+#不同的服务器，地址不同
+aliyun:
+  oss:
+    file:
+      endpoint: oss-cn-shanghai.aliyuncs.com
+      keyid: LTAIz7uiYCvAbELb
+      keysecret: lnMTq7v6v76wsusteS0gvgmciBg7BB
+      #bucket可以在控制台创建，也可以使用java代码创建
+      bucketname: kongbenfitness
+      basefile: headimg
