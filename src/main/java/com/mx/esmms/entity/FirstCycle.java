@@ -12,9 +12,9 @@ public class FirstCycle {
   @TableId(type = IdType.AUTO)
   private Integer id;
   private Integer temperature;
-  private Integer voltageLow;
-  private Integer voltageHigh;
-  private Integer currentDensity;
+  private Double  voltageLow;
+  private Double  voltageHigh;
+  private Double  currentDensity;
   private Integer chargeCapacity;
   private Integer dischargeCapacity;
   private Double coulombE;

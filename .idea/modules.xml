@@ -3,11 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../app-api/app-api.iml" filepath="$PROJECT_DIR$/../app-api/app-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cms/cms.iml" filepath="$PROJECT_DIR$/../cms/cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/esmms.iml" filepath="$PROJECT_DIR$/esmms.iml" />
       <module fileurl="file://$PROJECT_DIR$/machine.iml" filepath="$PROJECT_DIR$/machine.iml" />
       <module fileurl="file://$PROJECT_DIR$/../nbook-admin/nbook-admin.iml" filepath="$PROJECT_DIR$/../nbook-admin/nbook-admin.iml" />
       <module fileurl="file://$PROJECT_DIR$/../nbook-api/nbook-api.iml" filepath="$PROJECT_DIR$/../nbook-api/nbook-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/../service_oss/service_oss.iml" filepath="$PROJECT_DIR$/../service_oss/service_oss.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../springboot_test/springboot_test.iml" filepath="$PROJECT_DIR$/../springboot_test/springboot_test.iml" />
     </modules>
   </component>
 </project>

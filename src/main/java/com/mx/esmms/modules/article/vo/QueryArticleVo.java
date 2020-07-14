@@ -3,7 +3,6 @@ import lombok.Data;
 
 @Data
 public class QueryArticleVo {
-    private String query;
-    private Integer pageNum;
-    private Integer pageSize;
+    private Integer page;
+    private Integer per_page;
 }

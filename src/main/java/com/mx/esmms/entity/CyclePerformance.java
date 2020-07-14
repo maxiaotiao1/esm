@@ -12,16 +12,16 @@ public class CyclePerformance {
 
   @TableId(type = IdType.AUTO)
   private Integer id;
-  private Integer voltageLow;
-  private Integer voltageHigh;
-  private Integer currentDenstity;
+  private Double  voltageLow;
+  private Double  voltageHigh;
+  private Double  currentDensity;
   private Integer temperature;
-  private Integer cycle1;
-  private Integer cycle20;
-  private Integer cycle50;
-  private Integer cycle75;
-  private Integer cycle100;
-  private Integer cycle200;
+  private Integer cycleOne;
+  private Integer cycleTwenty;
+  private Integer cycleFifty;
+  private Integer cycleSeventyFive;
+  private Integer cycleOneHundred;
+  private Integer cycleTwoHundred;
 
   @TableField(fill = FieldFill.INSERT)
   private java.sql.Timestamp createTime;

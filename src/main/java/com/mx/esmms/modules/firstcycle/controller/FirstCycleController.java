@@ -9,13 +9,12 @@ import org.springframework.web.bind.annotation.*;
 
 @CrossOrigin
 @RestController
-@RequestMapping("/firstcycle")
 public class FirstCycleController {
 
     @Autowired
     FirstCycleService firstCycleService;
 
-    @GetMapping("/getfirstcycle/{firstCycleId}")
+    @GetMapping("/firstcycles/{firstCycleId}")
     public R getFirstCycle(@PathVariable Integer firstCycleId){
         QueryWrapper<FirstCycle> queryWrapper = new QueryWrapper<>();
         queryWrapper.eq("id", firstCycleId);
